@@ -1,0 +1,4 @@
+lib/*
+.idea/
+lib/utils.js
+node_modules/
